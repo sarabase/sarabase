@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Sara Bardají
 
-Just starting out, trying to find my place :earth_africa:. I'm a curious person :female_detective: and I always looking to learn something new. 
+Just starting out, trying to find my place :earth_africa:. I'm a curious person :female_detective: and I am always looking to learn something new. 
 
 - 🌱 I’m currently learning Vue.js and Tensorflow
 - 💬 Ask me about anything you want, I'll always try to help
